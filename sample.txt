@@ -1,1 +1,3 @@
-first commit
+first commit.
+
+This is addtional changes ready for second commit
