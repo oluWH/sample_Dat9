@@ -2,3 +2,5 @@ first commit.
 
 This is addtional changes ready for second commit
 
+From abranch this is another commit
+
