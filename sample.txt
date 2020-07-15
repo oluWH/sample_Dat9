@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 first commit.
 
 This is addtional changes ready for second commit
-=======
-first commit
 
-this is a branch commit going back in time to make changes to the first commit
->>>>>>> previous
